@@ -1,2 +1,2 @@
 # Kaggle
-Technocolabs Tasks 
+Technocolabs Tasks -  A month long internship program. 
